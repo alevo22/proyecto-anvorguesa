@@ -20,3 +20,6 @@ Buebo
 
 ## feature 7 - release 2
 Papitas
+
+## feature 8 - release 2
+Chiles picantes
