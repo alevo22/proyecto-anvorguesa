@@ -1,7 +1,7 @@
 # proyecto anvorguesa
 
 ## feature 1 - release 1
-Queso
+Queso cheddar
 
 ## feature 2 - release 1
 Cebolla
