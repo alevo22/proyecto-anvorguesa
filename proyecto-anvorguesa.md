@@ -13,7 +13,7 @@ Tomate cherry
 Lechuga repollada
 
 ## feature 5 - release 2
-Pepinillo
+Pepinillo sin bugs
 
 ## feature 6 - release 2
 Buebo
