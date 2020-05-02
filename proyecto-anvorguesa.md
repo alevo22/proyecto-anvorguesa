@@ -13,4 +13,4 @@ Tomate cherry
 Lechuga repollada
 
 ## feature 5 - release 1
-Pepino
+Pepinillo
