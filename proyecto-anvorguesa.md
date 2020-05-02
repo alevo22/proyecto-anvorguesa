@@ -7,7 +7,7 @@ Queso cheddar
 Cebolla caramelizada
 
 ## feature 3 - release 1
-Tomate
+Tomate cherry
 
 ## feature 4 - release 1
 Lechuga
