@@ -10,7 +10,7 @@ Cebolla caramelizada
 Tomate cherry
 
 ## feature 4 - release 1
-Lechuga
+Lechuga repollada
 
 ## feature 5 - release 1
 Pepino
