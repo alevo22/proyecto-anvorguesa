@@ -1,16 +1,19 @@
 # proyecto anvorguesa
 
-## feature 1 - release 1
+## feature 1 - release 2
 Queso cheddar
 
-## feature 2 - release 1
+## feature 2 - release 2
 Tocino
 
-## feature 3 - release 1
+## feature 3 - release 2
 Tomate cherry
 
-## feature 4 - release 1
+## feature 4 - release 2
 Lechuga repollada
 
-## feature 5 - release 1
+## feature 5 - release 2
 Pepinillo
+
+## feature 6 - release 2
+Buebo
