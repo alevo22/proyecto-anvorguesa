@@ -1,4 +1,5 @@
 # proyecto anvorguesa
+No se cierra inesperadamente
 
 ## feature 1 - release 2
 Queso cheddar
