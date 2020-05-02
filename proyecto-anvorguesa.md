@@ -41,3 +41,6 @@ Salsa de ajo
 
 ## feature 14 - release 2
 Champiñones
+
+## feature 15 - release 2
+Banderita con insignia de gateto
