@@ -4,7 +4,7 @@
 Queso cheddar
 
 ## feature 2 - release 1
-Cebolla caramelizada
+Tocino
 
 ## feature 3 - release 1
 Tomate cherry
